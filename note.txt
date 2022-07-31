@@ -1,0 +1,17 @@
+			PROBLEM
+_______________________________________________________________
+
+1.  SmartPlaza location btn needs to be fixed [DONE]
+2.  Owl slider needs to be done [DONE]
+3.  Responsive slider needs to be added [DONE]
+
+
+4.  Making nav bar scrolling horizontal [DONE]
+5.  Slider activation needs to be done [DONE]
+6.  Adding relatable link to the id [DONE]
+7.  Making all the button work [DONE]
+
+
+8.  Header needs to be responsive [DONE]
+9.  Making hamburger nav 
+10. Making the site dynamic 
